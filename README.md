@@ -87,7 +87,6 @@
 
 </html>
 
-
-file:///C:/Users/pwkin/Desktop/projects/urban-octo-telegram/Develop/index_1.html
+Link to live deployment of project: https://pwkinsley87.github.io/horiseon.github.io/
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/102868418/166130334-8e05d793-52f0-49f9-931c-9a846e5c6dd2.png)
